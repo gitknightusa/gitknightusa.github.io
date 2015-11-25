@@ -67,9 +67,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Anne.jpg" />
+    <Content Include="Contactus.jpg" />
+    <Content Include="Contactus1.jpg" />
     <Content Include="Edward.JPG" />
     <Content Include="Mike.jpg" />
     <Content Include="packages.config" />
+    <Content Include="Professors.jpg" />
+    <Content Include="Publications.jpg" />
+    <Content Include="University1.jpg" />
+    <Content Include="University2.jpg" />
     <Content Include="Yi.jpg" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,0 +1,30 @@
+﻿body {
+    position:relative;
+    margin-top:100px;
+}
+
+ ul.nav-pills {
+      top: 250px;
+      position: fixed;
+  }
+
+ .jumbotron {
+    max-height:150px;
+    
+}
+
+.footer {
+ 
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color:#eee;
+  
+}
+
+#section1 {padding-top:50px;}
+  #section2 {padding-top:50px;}
+  #section3 {padding-top:50px;}
+  #section41 {padding-top:50px;}
+  #section42 {padding-top:50px;}
